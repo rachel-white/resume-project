@@ -1,4 +1,4 @@
-#Resume Project
+# Resume Project
 
 This project contains 4 main parts - the homepage, the resume page,
 the contact form, and the option to download my CV.
